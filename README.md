@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rj-pal
+- 👋 Hi, I’m Robert J Pal @rj-pal
 - 👀 I’m interested in meeting fellow coders and showing my code.
-- 🌱 I’m currently learning java, python, sql, and others.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science, ml technologies, java, python, sql, r.
+- 💞️ I’m looking to collaborate on any upcoming future projects.
 - 📫 How to reach me ...
 
 <!---
