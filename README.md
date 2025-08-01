@@ -1,4 +1,3 @@
-- 🎮 *** NEW *** 🎮 Play my homemade version of Tic Tac Toe at Replit!<br>https://replit.com/@RobPal1/Tic-Tac-Toe?v=1
 - 👋 Hi, I’m Rob Pal @rj-pal
 - 👀 I’m interested in becoming a more proficient and professional coder.
 - 🌱 I’m currently upping my game in programming and data science working predominantly with Python and SQL.
